@@ -14,3 +14,19 @@
 ### Tools:
 - Microsoft Excel (Mobile)
 - GitHub
+
+- ---
+
+## ✅ Day 2 – Excel Formula Mastery
+
+📁 File: `Excelpractice2.png`  
+🛠️ Skills Used: SUM, AVERAGE, MIN, MAX, COUNT  
+📝 Description:  
+Created a student marks table and used formulas to calculate:
+- Total Marks
+- Average Marks
+- Highest & Lowest Scores
+- Subject Count  
+Formatted the sheet using bold headings, borders, and color highlights.
+
+📅 Date: 2nd July 2025
