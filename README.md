@@ -31,3 +31,5 @@ Created a student marks table and used formulas to calculate:
 Formatted the sheet using bold headings, borders, and color highlights.
 
 📅 Date: 2nd July 2025
+📸 Screenshot:  
+![Day 2 Excel Screenshot](https://github.com/AryanYadav4517/Data-Analyst--portfolio/blob/main/Day2_Excel_Formula_Screenshot.png?raw=true)
