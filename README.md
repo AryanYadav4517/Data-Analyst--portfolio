@@ -15,7 +15,8 @@
 - Microsoft Excel (Mobile)
 - GitHub
 
-- ---
+
+---
 
 ## ✅ Day 2 – Excel Formula Mastery
 
