@@ -20,8 +20,12 @@
 
 ## ✅ Day 2 – Excel Formula Mastery
 
-📁 File: `Excelpractice2.png`  
-🛠️ Skills Used: SUM, AVERAGE, MIN, MAX, COUNT  
+📁 File: ![Day 2 Screenshot](./Excelproject2.png) 
+🛠️ **Skills Used:**
+- Microsoft Excel
+- Data Entry
+- SUM, AVERAGE, MIN, MAX, COUNT formulas
+- Table Formatting (bold headers, borders, colors)
 📝 Description:  
 Created a student marks table and used formulas to calculate:
 - Total Marks
@@ -31,5 +35,4 @@ Created a student marks table and used formulas to calculate:
 Formatted the sheet using bold headings, borders, and color highlights.
 
 📅 Date: 2nd July 2025
-📸 Screenshot:  
-![Day 2 Excel Screenshot](https://github.com/AryanYadav4517/Data-Analyst--portfolio/blob/main/Day2_Excel_Formula_Screenshot.png?raw=true)
+
