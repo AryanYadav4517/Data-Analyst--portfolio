@@ -34,11 +34,6 @@ Created a student marks table and used formulas to calculate:
 - Subject Count  
 Formatted the sheet using bold headings, borders, and color highlights.
 
-📅 Date: 2nd July 2025
----
-
-
-
 📁 File: `IF_FORMULA_RESULTS.jpg`  
 🛠️ **Skills Used:**
 - Microsoft Excel
@@ -52,4 +47,4 @@ Created a result sheet for 15 students using `IF` formula to auto-detect Pass/Fa
 - Marks < 40 → "Fail"  
 Used conditional formatting to show Pass (Green) and Fail (Red).
 
-📅 Date: 3rd July 2025
+📅 Date: 2nd July 2025
