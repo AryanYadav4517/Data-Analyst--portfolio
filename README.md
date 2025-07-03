@@ -20,7 +20,7 @@
 
 ## ✅ Day 2 – Excel Formula Mastery
 
-📁 File: ![Day 2 Screenshot](./Excelproject2.png) 
+📁 File: ![Day 2 Screenshot](./Excelpracticr2.png) 
 🛠️ **Skills Used:**
 - Microsoft Excel
 - Data Entry
