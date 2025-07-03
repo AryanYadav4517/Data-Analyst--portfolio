@@ -48,3 +48,23 @@ Created a result sheet for 15 students using `IF` formula to auto-detect Pass/Fa
 Used conditional formatting to show Pass (Green) and Fail (Red).
 
 📅 Date: 2nd July 2025
+
+---
+
+## ✅ Day 4 – Auto Grade + Remarks Using VLOOKUP & IF
+
+📁 File: ![Day 2 Screenshot](./VLOOKUP_PRACTICE.jpg)
+
+🛠️ **Skills Used:**
+- Excel VLOOKUP
+- Nested IF formula
+- Logic building
+- Conditional formatting
+- Table design
+
+📝 Description:  
+Created a result sheet with:
+- VLOOKUP for Grade (based on marks)
+- IF formula for Remarks (based on grade)
+
+📅 Date: 4th July 2025
