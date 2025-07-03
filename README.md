@@ -34,7 +34,7 @@ Created a student marks table and used formulas to calculate:
 - Subject Count  
 Formatted the sheet using bold headings, borders, and color highlights.
 
-📁 File: `IF_FORMULA_RESULTS.jpg`  
+📁 File: ![Day 2 Screenshot](./IF_FORMULA_RESULTS.jpg)
 🛠️ **Skills Used:**
 - Microsoft Excel
 - IF formula logic
