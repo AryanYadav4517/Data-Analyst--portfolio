@@ -51,7 +51,7 @@ Used conditional formatting to show Pass (Green) and Fail (Red).
 
 ---
 
-## ✅ Day 4 – Auto Grade + Remarks Using VLOOKUP & IF
+## ✅ Day 3 – Auto Grade + Remarks Using VLOOKUP & IF
 
 📁 File: ![Day 2 Screenshot](./VLOOKUP_PRACTICE.jpg)
 
@@ -67,4 +67,4 @@ Created a result sheet with:
 - VLOOKUP for Grade (based on marks)
 - IF formula for Remarks (based on grade)
 
-📅 Date: 4th July 2025
+📅 Date: 3rd July 2025
