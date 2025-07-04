@@ -68,3 +68,24 @@ Created a result sheet with:
 - IF formula for Remarks (based on grade)
 
 📅 Date: 3rd July 2025
+
+
+---
+
+## ✅ Day 4 – Advanced Attendance Tracker (10 Days)
+
+📁 File: `Day5_Attendance_Tracker_10Days.png`  
+🛠️ **Skills Used:**
+- COUNTIF logic (P, A, L)
+- IF for remarks generation
+- % calculation
+- Conditional formatting
+
+📝 Description:  
+Built a 10-day attendance tracker with "Late" logic (0.5), auto-calculated present/absent/late days.  
+Used IF formula to assign performance-based remarks.  
+Formatted attendance % column with color codes.
+
+📅 Date: 4th July 2025
+
+
