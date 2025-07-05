@@ -74,7 +74,7 @@ Created a result sheet with:
 
 ## ✅ Day 4 – Advanced Attendance Tracker (10 Days)
 
-📁 File: `Day5_Attendance_Tracker_10Days.png`  
+📁 File: ![Day 4 Screenshot](./ATTENDANCE_TRACKER_10DAYS.jpg)
 🛠️ **Skills Used:**
 - COUNTIF logic (P, A, L)
 - IF for remarks generation
