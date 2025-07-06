@@ -88,4 +88,35 @@ Formatted attendance % column with color codes.
 
 📅 Date: 4th July 2025
 
+# 📈 Day 5 – Revenue Analysis with Pie Chart
+
+In this task, I performed a basic sales revenue analysis using Excel.
+
+## ✅ Task Highlights:
+
+- Collected and structured regional sales data (North, South, West)
+- Calculated total revenue for each region
+- Created a **Pie Chart** titled: *"Revenue Share by Region"*
+- Added **Data Labels** to show percentage-wise share
+- Identified:
+  - ✅ **South** as the highest revenue region
+  - ✅ Total revenue: ₹87,79,000
+  - ✅ Total units sold: 570
+  - 
+  - ## 🛠️ Skills Used:
+- Microsoft Excel
+- Data Cleaning & Structuring
+- Basic Data Analysis
+- SUM Function & Manual Calculation
+- Pie Chart Creation
+- Data Visualization
+- Dashboard Design
+- Data Labeling & Formatting
+
+## 📊 Tools Used:
+- Microsoft Excel
+
+---
+> This chart helped me understand how to visualize categorical data using Pie Charts and identify trends in sales distribution.
+
 
