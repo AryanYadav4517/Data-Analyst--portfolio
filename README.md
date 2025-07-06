@@ -111,7 +111,7 @@ In this task, I performed a basic sales revenue analysis using Excel.
 - SUM Function & Manual Calculation
 - Pie Chart Creation
 - Data Visualization
-- Dashboard Design
+- Dashboard Designing 
 - Data Labeling & Formatting
 
 ## 📊 Tools Used:
