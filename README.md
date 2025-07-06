@@ -89,6 +89,7 @@ Formatted attendance % column with color codes.
 📅 Date: 4th July 2025
 
 # 📈 Day 5 – Revenue Analysis with Pie Chart
+📁 File: ![Day 5 Screenshot](./SALES_REVENUE.jpg)
 
 In this task, I performed a basic sales revenue analysis using Excel.
 
